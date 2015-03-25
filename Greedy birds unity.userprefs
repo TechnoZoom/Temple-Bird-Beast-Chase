@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\monst_movem.cs">
+    <Files>
+      <File FileName="Assets\scripts\BirdMovement2.cs" Line="73" Column="24" />
+      <File FileName="Assets\scripts\BirdMovement2.cs" Line="16" Column="27" />
+      <File FileName="Assets\scripts\startgame.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\monst_movem.cs" Line="595" Column="5" />
+      <File FileName="Assets\levels.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets\GooglePlayGames\OurUtils\Logger.cs" Line="1" Column="1" />
+      <File FileName="Assets\button_play.cs" Line="1" Column="1" />
+      <File FileName="Assets\game_over_menu.cs" Line="61" Column="6" />
+      <File FileName="Assets\scripts\CameraMovesScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\timetaken.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BGLooper.cs" Line="1" Column="1" />
+      <File FileName="Assets\health_mons.cs" Line="1" Column="1" />
+      <File FileName="Assets\pipe_alpha.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BirdMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\bronze.cs" Line="1" Column="1" />
+      <File FileName="Assets\gb_bg.cs" Line="1" Column="1" />
+      <File FileName="Assets\laser_bird_coll.cs" Line="1" Column="1" />
+      <File FileName="Assets\lvlnav.cs" Line="1" Column="1" />
+      <File FileName="Assets\gameover_3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
